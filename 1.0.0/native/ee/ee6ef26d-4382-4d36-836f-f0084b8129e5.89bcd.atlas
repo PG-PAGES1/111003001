@@ -1,0 +1,20 @@
+
+whirl.jpg
+size: 404,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UIguangxiao/1x2_particle
+  rotate: false
+  xy: 1, 1
+  size: 200, 304
+  orig: 200, 304
+  offset: 0, 0
+  index: -1
+shuaxinguangxiaotu/rainbow_reel
+  rotate: false
+  xy: 203, 1
+  size: 200, 304
+  orig: 200, 304
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,433 @@
+
+speed.jpg
+size: 1907,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuangguangxiao/fast_spin_vfx_a_00
+  rotate: true
+  xy: 1010, 298
+  size: 61, 502
+  orig: 97, 502
+  offset: 24, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_01
+  rotate: true
+  xy: 2, 223
+  size: 63, 502
+  orig: 97, 502
+  offset: 23, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_02
+  rotate: true
+  xy: 506, 111
+  size: 53, 502
+  orig: 97, 502
+  offset: 30, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_03
+  rotate: true
+  xy: 1010, 184
+  size: 53, 502
+  orig: 97, 502
+  offset: 29, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_04
+  rotate: true
+  xy: 506, 56
+  size: 53, 502
+  orig: 97, 502
+  offset: 30, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_05
+  rotate: true
+  xy: 2, 38
+  size: 55, 502
+  orig: 97, 502
+  offset: 28, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_06
+  rotate: true
+  xy: 1010, 239
+  size: 57, 502
+  orig: 97, 502
+  offset: 27, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_07
+  rotate: true
+  xy: 506, 292
+  size: 63, 502
+  orig: 97, 502
+  offset: 23, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_08
+  rotate: true
+  xy: 2, 288
+  size: 65, 502
+  orig: 97, 502
+  offset: 22, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_09
+  rotate: true
+  xy: 2, 424
+  size: 67, 502
+  orig: 97, 502
+  offset: 20, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_10
+  rotate: true
+  xy: 2, 355
+  size: 67, 502
+  orig: 97, 502
+  offset: 20, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_11
+  rotate: true
+  xy: 506, 357
+  size: 65, 502
+  orig: 97, 502
+  offset: 22, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_12
+  rotate: true
+  xy: 506, 424
+  size: 67, 502
+  orig: 97, 502
+  offset: 20, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_13
+  rotate: true
+  xy: 1010, 426
+  size: 65, 502
+  orig: 97, 502
+  offset: 22, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_14
+  rotate: true
+  xy: 2, 95
+  size: 61, 502
+  orig: 97, 502
+  offset: 24, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_15
+  rotate: true
+  xy: 1010, 361
+  size: 63, 502
+  orig: 97, 502
+  offset: 23, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_16
+  rotate: true
+  xy: 2, 158
+  size: 63, 502
+  orig: 97, 502
+  offset: 23, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_17
+  rotate: true
+  xy: 506, 227
+  size: 63, 502
+  orig: 97, 502
+  offset: 23, 0
+  index: -1
+biankuangguangxiao/fast_spin_vfx_a_18
+  rotate: true
+  xy: 506, 166
+  size: 59, 502
+  orig: 97, 502
+  offset: 25, 0
+  index: -1
+dark
+  rotate: false
+  xy: 1514, 191
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_00
+  rotate: false
+  xy: 1711, 80
+  size: 87, 46
+  orig: 183, 90
+  offset: 61, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_01
+  rotate: true
+  xy: 1579, 6
+  size: 35, 50
+  orig: 183, 90
+  offset: 61, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_02
+  rotate: true
+  xy: 1863, 131
+  size: 85, 42
+  orig: 183, 90
+  offset: 65, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_03
+  rotate: false
+  xy: 704, 2
+  size: 85, 52
+  orig: 183, 90
+  offset: 58, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_04
+  rotate: false
+  xy: 1711, 128
+  size: 91, 54
+  orig: 183, 90
+  offset: 58, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_05
+  rotate: true
+  xy: 1839, 173
+  size: 93, 22
+  orig: 183, 90
+  offset: 59, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_06
+  rotate: false
+  xy: 2, 2
+  size: 95, 34
+  orig: 183, 90
+  offset: 58, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_07
+  rotate: false
+  xy: 99, 2
+  size: 95, 34
+  orig: 183, 90
+  offset: 58, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_08
+  rotate: false
+  xy: 989, 2
+  size: 93, 30
+  orig: 183, 90
+  offset: 60, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_09
+  rotate: false
+  xy: 196, 2
+  size: 93, 34
+  orig: 183, 90
+  offset: 59, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_10
+  rotate: false
+  xy: 1638, 36
+  size: 87, 36
+  orig: 183, 90
+  offset: 65, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_11
+  rotate: false
+  xy: 291, 2
+  size: 87, 34
+  orig: 183, 90
+  offset: 63, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_12
+  rotate: false
+  xy: 1490, 3
+  size: 87, 38
+  orig: 183, 90
+  offset: 62, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_13
+  rotate: false
+  xy: 1084, 2
+  size: 69, 30
+  orig: 183, 90
+  offset: 63, 11
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_14
+  rotate: true
+  xy: 1863, 218
+  size: 89, 42
+  orig: 183, 90
+  offset: 63, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_15
+  rotate: true
+  xy: 1852, 309
+  size: 89, 44
+  orig: 183, 90
+  offset: 62, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_16
+  rotate: false
+  xy: 1727, 32
+  size: 87, 46
+  orig: 183, 90
+  offset: 63, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_loop_17
+  rotate: false
+  xy: 898, 6
+  size: 89, 48
+  orig: 183, 90
+  offset: 61, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_00
+  rotate: false
+  xy: 1155, 2
+  size: 41, 18
+  orig: 183, 90
+  offset: 74, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_01
+  rotate: false
+  xy: 1796, 268
+  size: 65, 32
+  orig: 183, 90
+  offset: 63, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_02
+  rotate: false
+  xy: 1816, 85
+  size: 89, 44
+  orig: 183, 90
+  offset: 51, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_03
+  rotate: true
+  xy: 1796, 302
+  size: 105, 54
+  orig: 183, 90
+  offset: 43, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_04
+  rotate: true
+  xy: 1645, 74
+  size: 115, 64
+  orig: 183, 90
+  offset: 38, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_05
+  rotate: false
+  xy: 1511, 43
+  size: 125, 70
+  orig: 183, 90
+  offset: 32, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_06
+  rotate: false
+  xy: 1514, 115
+  size: 129, 74
+  orig: 183, 90
+  offset: 29, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_07
+  rotate: false
+  xy: 1294, 24
+  size: 133, 76
+  orig: 183, 90
+  offset: 26, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_08
+  rotate: false
+  xy: 1157, 22
+  size: 135, 78
+  orig: 183, 90
+  offset: 25, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_09
+  rotate: true
+  xy: 1716, 268
+  size: 139, 78
+  orig: 183, 90
+  offset: 22, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_10
+  rotate: false
+  xy: 1010, 102
+  size: 139, 80
+  orig: 183, 90
+  offset: 22, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_11
+  rotate: false
+  xy: 1716, 409
+  size: 137, 82
+  orig: 183, 90
+  offset: 23, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_12
+  rotate: false
+  xy: 1151, 102
+  size: 139, 80
+  orig: 183, 90
+  offset: 24, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_13
+  rotate: false
+  xy: 1292, 102
+  size: 135, 80
+  orig: 183, 90
+  offset: 23, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_14
+  rotate: true
+  xy: 1429, 57
+  size: 125, 80
+  orig: 183, 90
+  offset: 38, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_15
+  rotate: false
+  xy: 1010, 34
+  size: 145, 66
+  orig: 183, 90
+  offset: 19, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_16
+  rotate: false
+  xy: 506, 2
+  size: 103, 52
+  orig: 183, 90
+  offset: 54, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_17
+  rotate: false
+  xy: 1716, 184
+  size: 121, 82
+  orig: 183, 90
+  offset: 35, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_18
+  rotate: false
+  xy: 791, 6
+  size: 105, 48
+  orig: 183, 90
+  offset: 53, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_19
+  rotate: false
+  xy: 611, 2
+  size: 91, 52
+  orig: 183, 90
+  offset: 56, 1
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_20
+  rotate: true
+  xy: 1855, 400
+  size: 91, 50
+  orig: 183, 90
+  offset: 52, 3
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_21
+  rotate: false
+  xy: 380, 8
+  size: 55, 28
+  orig: 183, 90
+  offset: 76, 25
+  index: -1
+zhongjiangxiaoshihouguangxiao/fast_spin_vfx_b_spawn_22
+  rotate: false
+  xy: 1429, 11
+  size: 59, 44
+  orig: 183, 90
+  offset: 53, 7
+  index: -1
